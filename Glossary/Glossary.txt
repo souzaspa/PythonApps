@@ -1,0 +1,85 @@
+ALGORITMO É um conjunto de passos para determinada tarefa.
+ANSI American National Standard Institute – Instituto Nacional Americano de Padrões.
+ANTIVÍRUS Software utilizado para proteção dos computadores contra malwares.
+APP Programa desenvolvido para executar uma função específica, basicamente para o usuário.
+ARRAY É um grupo de elementos com atributos semelhantes (como memória ou disco) que podem ser endereçados individualmente.
+AWS A Amazon Web Services (AWS) é uma plataforma de serviços em nuvem segura.
+B2B Expressão utilizada para indicar operações entre empresas. A natureza dessa operação pode ser revenda, transformação ou consumo.
+B2C Expressão utilizada para indicar operações entre empresa e consumidor final.
+BACKBONE O backbone é a rede principal por onde circulam todos os dados de todos os clientes da internet.
+BACKUP É a  cópia de dados de um dispositivo de armazenamento a outro para que possam ser restaurados em caso da perda dos dados originais.
+BIOS É o sistema básico de entrada e saída.
+BITCOIN É uma criptomoeda descentralizada ou um dinheiro eletrônico para transações ponto-a-ponto.
+BRANCH É uma ramificação do código do controle de versão.
+BROWSER Navegador de internet. Software que permite visualizar imagens, fotos, sons, vídeos e textos na internet.
+BUG É um defeito, falha ou erro no código de um programa que provoca seu mau funcionamento.
+CACHE É um dispositivo de acesso rápido, interno a um sistema, que serve de intermediário entre um operador de um processo e o dispositivo de armazenamento ao qual esse operador acede.
+CIBERSEGURANÇA É o termo utilizado para descrever os procedimentos, práticas e tecnologias que estão envolvidos na segurança digital.
+CHIP Pastilha de silício onde ficam os circuitos integrados compostos por milhões de componentes eletrônicos e essenciais aos computadores.
+CLUSTER Consiste em computadores vagamente ou fortemente ligados que trabalham em conjunto para que, em muitos aspectos, eles possam ser vistos como um único sistema.
+COBOL É uma antiga linguagem de programação orientada para o processamento de banco de dados comerciais.
+CÓDIGO Conjunto de palavras ou símbolos contendo instruções para o computador.
+COMPILADOR Transforma o código de uma linguagem de programação para uma linguagem de máquina.
+COOKIES São pequenos arquivos que ficam armazenados no computador.
+CPU Unidade Central de Processamento é o responsável pelo controle e execução das tarefas do computador, ou seja, é onde todas as operações do computador são processadas.
+DASHBOARD São painéis visuais que centralizam informações importantes para os negócios.
+DESKTOP Área de trabalho, permite ao usuário ter acesso fácil a todos os elementos que fazem parte do sistema operacional.
+DEVOPS É uma metodologia de desenvolvimento de software que busca maximizar os resultados das equipes de TI.
+DIRETÓRIO Um tipo de pasta do computador que pode ter dentro de si outros diretórios e arquivos.
+DNS É um sistema que gerencia nomes e reconhece seus números de IP para fazer uma conexão.
+DOWNLOAD Ação de copiar um arquivo ou programa por meio de um computador remoto pela internet.
+ERP É um sistema de gestão empresarial.
+ETHERNET É um protocolo de conexão para redes locais (LAN) com base no envio de pacotes.
+FIREWALL É um dispositivo de uma rede de computadores que tem por objetivo aplicar uma política de segurança a um determinado ponto da rede.
+FIRMWARE Conjunto de instruções operacionais programadas diretamente no hardware de um equipamento eletrônico.
+FTP Protocolo de Transferência de Arquivos - É uma forma rápida e simples de transferência de arquivos na internet.
+GATEWAY Computador que interliga duas ou mais redes que usem protocolos de comunicação internos diferentes.
+GIT Sistema de Controle de Versão distribuído.
+GITHUB Plataforma de hospedagem de código-fonte de uma aplicação com controle de versão usando o Git.
+HACKER Pessoa com grande habilidade técnica em tecnologia que utiliza seu conhecimento para invadir sistemas para causar danos às redes ou computadores.
+HARDWARE É a parte física do computador, ou seja, o conjunto de aparatos eletrônicos, peças e equipamentos que fazem o computador funcionar.
+HIPERLINK Consiste em links que vão de uma página da web ou arquivo para outro.
+HOST Computador Central, também designado por servidor.
+HTML Hyper Text Markup Language - É a linguagem de marcação mais popular na internet.
+HTTP Protocolo de Transferência de Hipertexto - É um protocolo de comunicação que decide como dois computadores ou programas transmitirão dados na Internet.
+HUB Equipamento para onde convergem dados que chegam de uma ou várias fontes e seguem para um ou vários destinos, dependendo do tipo e do comando recebido.
+INTERNET Ação de conectar redes separadas, mantendo cada uma com sua própria identidade, capaz de transmitir dados, voz e imagens.
+INTERPRETADOR Programas de computador que leem um código fonte de uma linguagem de programação interpretada.
+INTRANET É a rede interna de computadores de uma empresa.
+IOT É um conceito que se refere à interconexão digital de objetos cotidianos com a internet, conexão dos objetos mais do que das pessoas.
+ITIL Biblioteca de Infraestrutura de TI - É um conjunto de melhores práticas para gerenciar os serviços de TI.
+IP Protocolo de Internet - É um endereço único que diferencia cada dispositivo conectado à internet.
+JAVA É uma linguagem de programação interpretada orientada a objetos.
+KASPERSKY Software de segurança para internet, proteção, remoção e detecção em tempo real de vírus, trojans, worms, spyware, adware.
+KERNEL É o núcleo de um sistema operacional, responsável por fazer a ponte entre os programas e os componentes físicos do computador.
+KPI Trata-se de uma ferramenta de gestão empregada para analisar os indicadores mais importantes de um negócio ou empresa.
+LAN Local Area Network - É uma rede local que tem por finalidade a troca de dados dentro um mesmo espaço físico.
+LGPD É a lei que dispõe sobre o tratamento de dados pessoais, a fim de proteger os direitos fundamentais de liberdade e privacidade, e o livre desenvolvimento da personalidade da pessoa natural, conforme descrito na constituição.
+MALWARE É um código malicioso e ou programa malicioso de computador destinado a infiltrar-se em um sistema de computador alheio de forma ilícita, com o intuito de causar alguns danos, alterações ou roubo de informações.
+MYSQL É um SGBD que utiliza a linguagem SQL como interface.
+PDF Portable document format) significa formato de documento portátil.
+PERIFÉRICO Qualquer equipamento ou acessório conectado à CPU ou ao computador.
+PHISHING É a tentativa fraudulenta de obter informações confidenciais como nomes de usuário, senhas e detalhes de cartão de crédito, por meio de disfarce de entidade confiável em uma comunicação eletrônica.
+PLUGIN Uma extensão de código que pode ser adicionada a um código.
+QUERY É o processo de extração de dados de um banco de dados e sua apresentação em uma forma adequada ao uso.
+RANSOMWARE É utilizado como vírus de resgate e recebe esse nome porque criptografa os dados, que depois só podem ser acessados novamente com uma senha.
+REDE É um sistema de conexão com fio ou sem fio, que permite o compartilhamento de recursos por diferentes computadores.
+ROTEADOR É um dispositivo que encaminha pacotes de dados entre redes de computadores criando um conjunto de redes de sobreposição.
+SAAS É uma forma de comercialização de software onde o fornecedor se responsabiliza por toda a estrutura necessária para a disponibilização do sistema.
+SCANNER É um periférico de entrada encarregado de digitalizar imagens, textos, fotos para o computador.
+SGBD Sistema de Gerenciamento de Banco de Dados.
+SQL Structured Query Language ou Linguagem de Consulta Estruturada) - É a linguagem de pesquisa declarativa padrão para banco de dados relacional.
+SPAM É um termo faz referência a e-mails indesejados.
+SSL É um protocolo de segurança que utiliza a tecnologia da criptografia para proteger dados.
+TAGS Comandos inseridos no código HTML para formatar as páginas da web.
+TERMINAL É uma Interface de Linha de Comando.
+TOMCAT Servidor web Java, mais especificamente, um container de servlets.
+UX Também conhecido como User Experience ou Experiência do Usuário, é a preocupação dos designers e desenvolvedores em criar aplicações pensadas na visão e utilização de seus usuários.
+URL Refere-se ao endereço de rede no qual se encontra algum recurso informático.
+USB Interface serial que permite conexão de até 127 dispositivos em velocidades 1,5 ou 12 Mbps.
+VÍRUS Programas ou códigos que causam danos aos computadores.
+VM Consiste em um software de ambiente computacional, que executa programas como um computador real, também chamado de processo de virtualização.
+VPN É uma rede de comunicação privada.
+XML É uma linguagem de marcação capaz de descrever diversos tipos de dados.
+WEB (World Wide Web) É a sigla que denomina a rede mundial de computadores ligados em rede.
+ZIP Formato de compressão.
