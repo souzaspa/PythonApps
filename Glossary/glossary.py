@@ -31,7 +31,7 @@ root.geometry('%dx%d+%d+%d' % (largura, altura, posx, posy))
 # Function
 def search():
     find = False
-    with open('Glossary.txt', 'r') as archive:
+    with open('Glossary.txt', 'r', encoding="utf8") as archive:
         read = archive.readlines()
         try:
             for item in read:
