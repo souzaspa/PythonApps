@@ -14,9 +14,6 @@ import time
 # ---------------------------------------------------
 # Functions
 # Add Many Songs
-from sqlalchemy import column
-
-
 def addMany():
     songs = filedialog.askopenfilenames(initialdir='songs/', title='Choose a Song',
                                       filetypes=(('mp3 Files', "*.mp3"),))
