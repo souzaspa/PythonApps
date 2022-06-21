@@ -1,1 +1,1 @@
-In lines 24, 32, 48, 86, 118, 131 and 147 change the music directory.
+In lines 21, 29, 45, 83, 115, 128 and 144 change the music directory.
